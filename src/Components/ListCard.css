@@ -1,0 +1,19 @@
+h1 {
+  font-family: "Lato", sans-serif;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+iframe {
+  border: none;
+  padding: 5px;
+  border-radius: 20px;
+  transition: all 0.3s ease-in;
+}
+iframe:hover {
+  transform: scale(1.1);
+}
