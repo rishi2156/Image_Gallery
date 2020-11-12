@@ -13,6 +13,7 @@ h1 {
 }
 .ListCard {
   transition: all 0.2s ease-in;
+  background-color: darkgray 0.7;
   padding: 10px;
   border-radius: 25px;
   margin-top: 5px;
